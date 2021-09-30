@@ -1,3 +1,3 @@
 # test_hello_world
-Hello Humass!
+Hello Humans!
 My name is Danny Eicher
